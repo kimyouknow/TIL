@@ -75,7 +75,6 @@ ConnectInterface.prototype.connectStore = function () {
     element.getState = this.getStatefromStore.bind(this);
     element.setState = this.setStateToStore.bind(this);
   });
-  this.store.interface = this;
 };
 
 ConnectInterface.prototype.getStatefromStore = function (keysObj) {
