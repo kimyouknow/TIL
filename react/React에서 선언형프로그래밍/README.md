@@ -93,3 +93,15 @@ const result = numbers.filter(isPair).map(double).reduce(sum);
 ```
 
 isPair는 우리가 선언한 함수일 뿐 내부적인 동작은 해당 함수의 내부를 살펴보야아 한다. React도 마찬가지라고 생각한다. Suspense, Error-boundary 등의 React에서 제공하는 선언형 프로그래밍 툴을 사용하기 위해선 React가 내부적으로 해당함수를 어떻게 처리해야하는지 알아야한다. 그 바탕은 [생명주기](https://ko.reactjs.org/docs/state-and-lifecycle.html)라고 할 수 있다. 내부로직을 다른 곳으로 위임하기 위해선 동작원리를 이해한다.
+
+## 3. 추상화
+
+선언적 프로그래밍은 추상화와 관련있다고 생각했다.
+
+[토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code](https://www.youtube.com/watch?v=edWbHp_k_9Y&t=987s) 해당 영상에서 강조한\*\*
+
+- 함수의 복잡한 로직을 단순히 숨기지 말 것
+- 짧은 코드가 아니라 원하는 로직을 빠르게 찾을 수 있는 코드
+- 함수의 이름과 전달하는 파리미터로 ‘무엇'을 하는 함수인지 빠르게 이해 가능
+
+등의 원칙은 `어떻게 해야 선언적 프로그래밍을 적절하게 사용할 수 있을까?`에 대한 답이 될 수 있다고 생각한다.
