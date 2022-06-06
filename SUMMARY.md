@@ -60,7 +60,7 @@
   - [04-webpack,babelgithub](_회고/202204/04-webpack,babelgithub.md)
   - [05-webpack,eslint,prettier,github](_회고/202204/05-webpack,eslint,prettier,github.md)
   - [06-코넥트중간점검](_회고/202204/06-코넥트중간점검.md)
-  - [07-설계,브랜치](\_회고/202204/07-설계, 브랜치.md)
+  - [07-설계,브랜치](_회고/202204/07-설계,브랜치.md)
   - [08-협업](_회고/202204/08-협업.md)
   - [10-2주차주간회고](_회고/202204/10-2주차주간회고.md)
   - [11-custom-event,htmlElement렌더-로직,협업](_회고/202204/11-custom-event,htmlElement렌더로직,협업.md)
