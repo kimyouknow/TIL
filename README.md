@@ -1,3 +1,9 @@
+# 내 소개
+
+[Github 링크](https://github.com/kimyouknow)
+
+[Email: kimyouknow@naver.com](kimyouknow@naver.com)
+
 # Gitbook에 정리하는 이유
 
 # **목적**
