@@ -2,7 +2,8 @@
 
 ## 소개
 
-- [소개](/README.md)
+- [프로필](/README.md)
+- [목적](/purpose.md)
 
 ## 학습 및 고민 정리
 
