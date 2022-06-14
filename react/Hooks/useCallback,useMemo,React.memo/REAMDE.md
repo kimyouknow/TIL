@@ -121,7 +121,7 @@ function Parent({term}){
   },[term])
   return (
     <>
-      {길이간 긴 Child배열.map(child => <Child add={add} child={child} />)
+      {길이간 긴 Child배열.map(child => <Child add={add} child={child} />)}
     </>
   )
 }
@@ -151,7 +151,7 @@ function Parent(){
   },[term])
   return (
     <>
-      {길이간 긴 Child배열.map(child => <Child add={add} child={child} />)
+      {길이간 긴 Child배열.map(child => <Child add={add} child={child} />)}
     </>
   )
 }
