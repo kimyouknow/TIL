@@ -115,7 +115,7 @@
   - [20-useForm,msw-recoil-axios세팅](_회고/202206/20-useForm,msw-recoil-axios세팅.md)
   - [21-서버상태,테스트코드-필요성,로그인유지,icon컴포넌트](_회고/202206/21-서버상태,테스트코드-필요성,로그인유지,icon컴포넌트.md)
   - [22-OAuth흐름이해,axios-interceptor활용,refresh-token,access-token](_회고/202206/22-OAuth흐름이해,axios-interceptor활용,refresh-token,access-token.md)
-  - [23-redirect요청이해,refresh토큰을-활용한로그인유지](\_회고/202206/23-redirect요청이해,refresh토큰을 활용한로그인유지.md)
+  - [23-redirect요청이해,refresh토큰을-활용한로그인유지](_회고/202206/23-redirect요청이해,refresh토큰을-활용한로그인유지.md)
   - [26-6월3주차주간회고](_회고/202206/26-6월3주차주간회고.md)
   - [27-oauth예제만들기,좋은개발자란?](_회고/202206/27-oauth예제만들기,좋은개발자란?.md)
   - [30-로그인유지](_회고/202206/30-로그인유지.md)
