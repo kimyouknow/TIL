@@ -1,3 +1,5 @@
+# React에서 선언형프로그래밍
+
 > (react에서)선언형이 무엇인가에 대한 내용은 [Imperative and Declarative Programming](https://medium.com/@Ancyr/imperative-and-declarative-programming-e04b48887ab6)을 참고(거의 그대로 번역)했습니다.
 
 # React의 장점
@@ -98,7 +100,7 @@ isPair는 우리가 선언한 함수일 뿐 내부적인 동작은 해당 함수
 
 선언적 프로그래밍은 추상화와 관련있다고 생각했다.
 
-[토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code](https://www.youtube.com/watch?v=edWbHp_k_9Y&t=987s) 해당 영상에서 강조한\*\*
+\***\*[토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code](https://www.youtube.com/watch?v=edWbHp_k_9Y&t=987s) 해당 영상에서 강조한**
 
 - 함수의 복잡한 로직을 단순히 숨기지 말 것
 - 짧은 코드가 아니라 원하는 로직을 빠르게 찾을 수 있는 코드

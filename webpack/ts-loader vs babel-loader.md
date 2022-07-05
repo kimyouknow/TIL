@@ -1,20 +1,12 @@
 # babel-loader vs ts-loader
 
-publish status: 노션
-분야: webpack
-생성시간: July 4, 2022 5:58 PM
-업데이트해야되니?: No
-정리중: 정리중
-최종수정시간: July 4, 2022 6:21 PM
-키워드: babel-loader, ts-loader
-
 ## 요약
 
-> Warning
-> `ts-loader` 는 TypeScript 컴파일러인 `tsc`를 사용하고, `tsconfig.json`의 설정을 따릅니다. `[모듈을](https://www.typescriptlang.org/tsconfig#module)`"CommonJS"로 설정하지 않도록 주의하세요. 안그러면 webpack이 [코드 tree-shake를](https://webpack.kr/guides/tree-shaking) 할 수 없습니다.
-> 이미 `[babel-loader`를](https://github.com/babel/babel-loader) 사용하여 코드를 트랜스파일 하는 경우라면 `[@babel/preset-typescript](https://babeljs.io/docs/en/babel-preset-typescript)`를 사용하여 Babel이 추가 로더를 사용하는 대신 JavaScript와 TypeScript 파일을 모두 처리하도록 합니다. `ts-loader`와 달리, 기본 `[@babel/plugin-transform-typescript](https://babeljs.io/docs/en/babel-plugin-transform-typescript)`
-
-[webpack 공식문서 설명](https://webpack.kr/guides/typescript/#loader)
+- `ts-loader`는 TypeScript 컴파일러인 `tsc`를 사용하고, `tsconfig.json`의 설정을 따른다.
+- [모듈을](https://www.typescriptlang.org/tsconfig#module) "CommonJS"로 설정하지 않도록 주의해야 한다. 그렇지 않으면 webpack이 [코드 tree-shake를](https://webpack.kr/guides/tree-shaking) 할 수 없다.
+- 이미 [babel-loader를](https://github.com/babel/babel-loader) 사용하여 코드를 트랜스파일 하는 경우라면 [@babel/preset-typescript](https://babeljs.io/docs/en/babel-preset-typescript)를 사용하여 Babel이 추가 로더를 사용하는 대신 JavaScript와 TypeScript 파일을 모두 처리하도록 한다.
+- `ts-loader`와 달리, 기본 [@babel/plugin-transform-typescript](https://babeljs.io/docs/en/babel-plugin-transform-typescript)플러그인은 어떠한 타입 검사도 수행하지 않습니다
+- [webpack 공식문서 설명](https://webpack.kr/guides/typescript/#loader)
 
 # ts-loader 사용
 
@@ -35,7 +27,7 @@ publish status: 노션
 
 - 아래 사진처럼 타입이 다르면 앱이 실행되지 않는다.
 
-  ![ts.png](./image/ts.png)
+![ts.png](./image/ts.png)
 
 ## babel-loader 사용
 

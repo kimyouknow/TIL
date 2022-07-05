@@ -1,3 +1,5 @@
+# React strict 모드
+
 > useEffect를 내부의 effect가 두 번씩 호출되는 문제
 
 아래와 같이 useEffect로 데이터를 fetch하는 로직을 구현하다가 fetch가 두 번씩 호출되는 것을 발견했습니다. 디버거로 확인해보니 `useEffect내부의 effect가 두 번 실행`되고 있었습니다.
