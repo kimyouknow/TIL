@@ -16,6 +16,10 @@
   - [StrictMode](react/StrictMode/README.md)
   - [React에서 선언형프로그래밍](react/React%EC%97%90%EC%84%9C%20%EC%84%A0%EC%96%B8%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/README.md)
 
+## Advanced JS
+
+- [axios interceptor 세팅 및 활용](advancedJS/axios%20interceptor%20%EC%84%B8%ED%8C%85%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9/README.md)
+
 ## Webpack
 
 - [등장배경 및 용어 이해](webpack/README.md)
