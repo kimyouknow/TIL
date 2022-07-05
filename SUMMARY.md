@@ -10,7 +10,7 @@
 - hooks
 
   - [useCallback,useMemo,React.memo](react/Hooks/useCallback%2CuseMemo%2CReact.memo.md)
-  - [Some other child page](part1/page1-2.md)
+  - [react-redux,contextAPI,useReducer](react/Hooks/react-redux%2CcontextAPI%2CuseReducer.md)
 
 - ETC
   - [StrictMode](react/etc/StrictMode.md)

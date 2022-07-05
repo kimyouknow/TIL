@@ -1,3 +1,5 @@
+# context api, useReducer, react-redux
+
 > [React Hooks가 Redux를 대체할 수 있냐고 물어보지 마세요](https://delivan.dev/react/stop-asking-if-react-hooks-replace-redux-kr/), [[번역] React Hooks가 Redux를 대체할 수 있냐고 물어보지 마세요](https://delivan.dev/react/stop-asking-if-react-hooks-replace-redux-kr/) 두 글의 내용을 요약했습니다.
 
 # React Hooks가 Redux를 대체할 수 있냐고 물어보지 마세요. (context api, useReducer, react-redux)
