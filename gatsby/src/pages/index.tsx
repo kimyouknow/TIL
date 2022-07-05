@@ -1,6 +1,35 @@
 import Cards from '@/components/Card'
+import { graphql } from 'gatsby'
 
-export default function Info() {
+type IndexPageProps = {
+  data: {
+    allMarkdownRemark: {
+      edges: [
+        {
+          node: {
+            id: string
+            frontmatter: {
+              title: string
+              summary: string
+              date: string
+              categories: string[]
+              thumbnail: {
+                publicURL: string
+              }
+            }
+          }
+        },
+      ]
+    }
+  }
+}
+
+export default function Info({
+  data: {
+    allMarkdownRemark: { edges },
+  },
+}: IndexPageProps) {
+  console.log('edges', edges)
   return (
     <div>
       Info
@@ -8,3 +37,24 @@ export default function Info() {
     </div>
   )
 }
+
+export const getPostList = graphql`
+  query getPostList {
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date, frontmatter___title] }) {
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            summary
+            date(formatString: "YYYY.MM.DD.")
+            categories
+            thumbnail {
+              publicURL
+            }
+          }
+        }
+      }
+    }
+  }
+`
