@@ -9,6 +9,8 @@
 
 - hooks
 
+  - [useState 자주할 수 있는 실수 및 useEffect 동작 이해하기
+    ](react/Hooks/%20useState%20%EC%9E%90%EC%A3%BC%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%8B%A4%EC%88%98%20%EB%B0%8F%20useEffect%20%EB%8F%99%EC%9E%91%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
   - [useCallback,useMemo,React.memo](react/Hooks/useCallback%2CuseMemo%2CReact.memo.md)
   - [react-redux,contextAPI,useReducer](react/Hooks/react-redux%2CcontextAPI%2CuseReducer.md)
 
