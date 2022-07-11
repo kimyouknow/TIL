@@ -155,3 +155,4 @@
   - [03-6월4주차주간회고](_회고/202207/03-6월4주차주간회고.md)
   - [06-코드스쿼드정리, nodejs,jest,노션활용](_회고/202207/06-%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C%EC%A0%95%EB%A6%AC%2C%20nodejs%2Cjest%2C%EB%85%B8%EC%85%98%ED%99%9C%EC%9A%A9.md)
   - [07-브랜치최신화,nodejs학습,spring개발환경](_회고/202207/07-%EB%B8%8C%EB%9E%9C%EC%B9%98%EC%B5%9C%EC%8B%A0%ED%99%94%2Cnodejs%ED%95%99%EC%8A%B5%2Cspring%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.md)
+  - [10-7월1주차 주간회고](_회고/202207/10-7%EC%9B%941%EC%A3%BC%EC%B0%A8%20%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0.md)
