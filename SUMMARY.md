@@ -165,3 +165,4 @@
   - [07-브랜치최신화,nodejs학습,spring개발환경](_회고/202207/07-%EB%B8%8C%EB%9E%9C%EC%B9%98%EC%B5%9C%EC%8B%A0%ED%99%94%2Cnodejs%ED%95%99%EC%8A%B5%2Cspring%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.md)
   - [10-7월1주차 주간회고](_회고/202207/10-7%EC%9B%941%EC%A3%BC%EC%B0%A8%20%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0.md)
   - [11-mongoDB, jestMock,선언적인처리](_회고/202207/11-mongoDB%2C%20jestMock%2C%EC%84%A0%EC%96%B8%EC%A0%81%EC%9D%B8%EC%B2%98%EB%A6%AC.md)
+  - [12-모듈,babel,ts-node,typescript](_회고/202207/12-%EB%AA%A8%EB%93%88%2Cbabel%2Cts-node%2Ctypescript.md)
