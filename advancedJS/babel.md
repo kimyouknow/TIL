@@ -99,8 +99,7 @@ es6으로 코딩할 때 플러그인을 하나하나 설정하기 어려울 수 
 
 @babel/node
 
-- Node.js 커멘드 라인에서 사용하는 명령어를 사용할 수 있게 해준다.
-- 코드의 transpile과 실행을 한 번에 해준다. ( node > babel-node )
+- Node.js 코드의 transpile과 실행을 한 번에 해준다.
 
 @babel/preset-react
 
