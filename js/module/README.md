@@ -6,7 +6,7 @@ nodejs를 공부하다보니 require문을 자주 보게되었다. 나는 브라
 
 특히 이번에 jest를 공부하게 되면서 import /export 관한 에러가 났는데, 구글링 통해 문제는 해결했는지만 원인과 해결방법을 이해하지 못했다. module과 reuqire, import문 사용에 따라 차이가 있어 관련 주제를 학습해보려고 한다.
 
-자바스크립트 모듈과 export/import 는 여기를 참고해주세요.
+[자바스크립트 모듈과 export/import](https://kimyouknow.gitbook.io/til/js/undefined/export-import)는 여기를 참고해주세요.
 
 # 요약
 
