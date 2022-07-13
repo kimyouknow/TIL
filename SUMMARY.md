@@ -21,6 +21,7 @@
 
   - [NodeJS란?](nodejs/NodeJS%EB%9E%80%3F.md)
   - [NodeJS의 내부 동작 원리](nodejs/NodeJS%EC%9D%98%20%EB%82%B4%EB%B6%80%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
+  - [nodejs - jest,typescript,nodemon,babel 세팅](nodejs/nodejs-jest%2Ctypescript%2Cnodemon%2Cbabel%20%EC%84%B8%ED%8C%85.md)
 
 ## React
 
