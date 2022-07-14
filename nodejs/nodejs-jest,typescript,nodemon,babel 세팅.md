@@ -152,7 +152,7 @@ test('adds 1 + 2 to equal 3', () => {
 
 # 3. test환경에서 typescript 적용하기 (feat. alias)
 
-Jest는 `Babel`을 통해 TypeScript를 지원하는 방법과 **`ts-jest`**를 통해 TypeScript를 지원하는 방법이 있다.
+Jest는 `Babel`을 통해 TypeScript를 지원하는 방법과 **ts-jest**를 통해 TypeScript를 지원하는 방법이 있다.
 
 ### 주의사항
 
@@ -222,6 +222,7 @@ test('adds 1 + 2 to equal 3', () => {
 ## 3-3. 테스트환경에서 절대경로 설정하기
 
 절대경로를 위해 다음과 같이 jest.config.js를 변경한다.
+ts환경에서는 transfrom: { '\\.[jt]sx?$': 'ts-jest'} 으로 설정하면 된다.
 
 ```jsx
 // jest.config.js

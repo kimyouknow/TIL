@@ -175,3 +175,4 @@
   - [10-7월1주차 주간회고](회고/202207/10-7%EC%9B%941%EC%A3%BC%EC%B0%A8%20%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0.md)
   - [11-mongoDB, jestMock,선언적인처리](회고/202207/11-mongoDB%2C%20jestMock%2C%EC%84%A0%EC%96%B8%EC%A0%81%EC%9D%B8%EC%B2%98%EB%A6%AC.md)
   - [12-모듈,babel,ts-node,typescript](회고/202207/12-%EB%AA%A8%EB%93%88%2Cbabel%2Cts-node%2Ctypescript.md)
+  - [13-nodejs TDD세팅,ts컴파일툴비교,export default, 코넥트서버회의](회고/202207/13-nodejs%20TDD%EC%84%B8%ED%8C%85%2Cts%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%88%B4%EB%B9%84%EA%B5%90%2Cexport%20default%2C%20%EC%BD%94%EB%84%A5%ED%8A%B8%EC%84%9C%EB%B2%84%ED%9A%8C%EC%9D%98.md)
