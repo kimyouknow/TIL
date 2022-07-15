@@ -1,4 +1,4 @@
-# nodejs - jest, typescript,nodemon,babel 세팅
+# nodejs with es6 - jest, typescript,nodemon,babel 세팅
 
 nodejs환경에서 typescript, jest를 사용하기 위한 환경 설정을 해봤다.
 

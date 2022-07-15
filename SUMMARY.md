@@ -21,7 +21,7 @@
 
   - [NodeJS란?](nodejs/NodeJS%EB%9E%80%3F.md)
   - [NodeJS의 내부 동작 원리](nodejs/NodeJS%EC%9D%98%20%EB%82%B4%EB%B6%80%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
-  - [nodejs - jest,typescript,nodemon,babel 세팅](nodejs/nodejs-jest%2Ctypescript%2Cnodemon%2Cbabel%20%EC%84%B8%ED%8C%85.md)
+  - [nodejs with es6 - jest, typescript,nodemon,babel 세팅](nodejs/nodejs%20with%20es6%20-%20jest%2C%20typescript%2Cnodemon%2Cbabel%20%EC%84%B8%ED%8C%85.md)
 
 ## React
 
@@ -175,4 +175,4 @@
   - [10-7월1주차 주간회고](회고/202207/10-7%EC%9B%941%EC%A3%BC%EC%B0%A8%20%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0.md)
   - [11-mongoDB, jestMock,선언적인처리](회고/202207/11-mongoDB%2C%20jestMock%2C%EC%84%A0%EC%96%B8%EC%A0%81%EC%9D%B8%EC%B2%98%EB%A6%AC.md)
   - [12-모듈,babel,ts-node,typescript](회고/202207/12-%EB%AA%A8%EB%93%88%2Cbabel%2Cts-node%2Ctypescript.md)
-  - [13-nodejs TDD세팅,ts컴파일툴비교,export default, 코넥트서버회의](회고/202207/13-nodejs%20TDD%EC%84%B8%ED%8C%85%2Cts%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%88%B4%EB%B9%84%EA%B5%90%2Cexport%20default%2C%20%EC%BD%94%EB%84%A5%ED%8A%B8%EC%84%9C%EB%B2%84%ED%9A%8C%EC%9D%98.md)
+  - [13-nodejs TDD세팅,ts컴파일툴비교,export default, 코넥트서버회의](회고/202207/13-nodejs%20TDD%EC%84%B8%ED%8C%85%2Cts%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%88%B4%EB%B9%84%EA%B5%90%2Cexport%20default%2C%20%EC%BD%94%EB%84%A5%ED%8A%B8%EC%84%9C%EB%B2%84%ED%9A%8C%EC%9D%98.md) -[14-단위 테스트 및 통합테스트 게시글 CRUD 연습,react forceUpdate](회고/202207/14-%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B0%8F%20%ED%86%B5%ED%95%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B2%8C%EC%8B%9C%EA%B8%80%20CRUD%20%EC%97%B0%EC%8A%B5%2Creact%20forceUpdate.md)
