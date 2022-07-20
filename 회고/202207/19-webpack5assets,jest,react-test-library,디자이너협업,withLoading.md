@@ -31,9 +31,9 @@ react에서 jest 사용하기
 
 이전에 적용하지 못했던 font 문제를 해결하고 svg 컴포넌트를 어떻게 사용할지 결정했다. 이전에는 아래의 로더를 사용해서 각각의 문제를 해결했다.
 
-- `[raw-loader](https://v4.webpack.js.org/loaders/raw-loader/)` 파일을 문자열로 가져올 때
-- `[url-loader](https://v4.webpack.js.org/loaders/url-loader/)` 파일을 data URI 형식으로 번들에 인라인 추가 할 때
-- `[file-loader](https://v4.webpack.js.org/loaders/file-loader/)` 파일을 출력 디렉터리로 내보낼 때
+- [raw-loader](https://v4.webpack.js.org/loaders/raw-loader/) 파일을 문자열로 가져올 때
+- [url-loader](https://v4.webpack.js.org/loaders/url-loader/) 파일을 data URI 형식으로 번들에 인라인 추가 할 때
+- [file-loader](https://v4.webpack.js.org/loaders/file-loader/) 파일을 출력 디렉터리로 내보낼 때
 
 font적용에 어려움을 겪어서 webpack공식문서를 찾아보던 중 [Assets Module](https://webpack.kr/guides/asset-modules/)에 관한 내용을 발견해 적용해봤다.
 
