@@ -179,3 +179,4 @@
   - [14-단위 테스트 및 통합테스트 게시글 CRUD 연습,react forceUpdate](회고/202207/14-%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B0%8F%20%ED%86%B5%ED%95%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B2%8C%EC%8B%9C%EA%B8%80%20CRUD%20%EC%97%B0%EC%8A%B5%2Creact%20forceUpdate.md)
   - [15-무한스크롤,바벨쓰면서타입체킹](회고/202207/15-%EC%9C%A0%EC%A0%80%EC%8A%A4%ED%86%A0%EB%A6%AC%2C%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4%2C%EB%B0%94%EB%B2%A8%EC%93%B0%EB%A9%B4%EC%84%9C%ED%83%80%EC%9E%85%EC%B2%B4%ED%82%B9.md)
   - [17-7월2주차 주간회고](회고/202207/17-7%EC%9B%942%EC%A3%BC%EC%B0%A8%20%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0.md)
+  - [19-webpack5assets,jest,react-test-library,디자이너협업,withLoading](회고/202207/19-webpack5assets%2Cjest%2Creact-test-library%2C%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%ED%98%91%EC%97%85%2CwithLoading.md)
