@@ -40,6 +40,7 @@
 ## Test
 
 - [jest - mock&spy](test/jest/mock%26spy.md)
+- [프론트에서 테스크코드짜기](test/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C.md)
 
 ## Webpack
 
