@@ -1,6 +1,5 @@
-### 시간대별 정리
+# 20220721
 
-```jsx
 <details>
 <summary>시간대별 정리</summary>
 
@@ -22,7 +21,6 @@ storybook 설치 및 예제 실습
 - 반복되는 get요청 줄이기
 </details>
 <br>
-```
 
 # 개인공부
 
